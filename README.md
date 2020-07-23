@@ -1,2 +1,2 @@
 # starwars_graphql_ntv-instr
-Created with CodeSandbox
+Retrieve Starwars characters with a request to a graphQL api

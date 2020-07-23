@@ -1,2 +1,2 @@
-# starwars_graphql1
+# starwars_graphql_ntv-instr
 Created with CodeSandbox
